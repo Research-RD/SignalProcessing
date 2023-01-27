@@ -1,0 +1,10 @@
+Statistical Learning with Sparsity: The Lasso and Generalizations
+https://hastie.su.domains/StatLearnSparsity_files/SLS_corrected_1.4.16.pdf
+
+Review of (1)
+https://sds.postech.ac.kr/sparse_learning.html
+
+haar
+https://www.mathworks.com/help/wavelet/ug/haar-transforms-for-time-series-data-and-images.html
+https://www.mathworks.com/help/wavelet/ref/haart.html
+https://www.mathworks.com/help/wavelet/ref/ihaart2.html
